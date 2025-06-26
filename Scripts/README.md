@@ -91,5 +91,5 @@ GROUP BY
 
 ## Technical details:
 - **Database:** PostgreSQL
-- **Analysis Tools:** PostgreSQL
+- **Analysis Tools:** PostgreSQL, DBeaver, PGAdmin
 - **Visualizations:** Excel
