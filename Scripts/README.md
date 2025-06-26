@@ -18,7 +18,7 @@ Analysis of customer behavior, life-time value, and retention for an e-commerce 
 
 🖥️Query: [1_customer_segmentation.sql](1_customer_segmentation.sql)
 
-**📈Visualization**
+**📊Visualization**
 
 ![Customer Segmentation](/Scripts/images/1_customer_segmentation.png)
 
@@ -73,6 +73,7 @@ GROUP BY
 🖥️ Query: [3_churn_analysis.sql](/Scripts\3_churn_analysis.sql)  
 
 **📊Visualization**
+
 ![churn_analysis](/Scripts/images/3_churn_analysis.png)
 
 **🔎Key Findings**
