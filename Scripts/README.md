@@ -20,7 +20,7 @@ Analysis of customer behavior, life-time value, and retention for an e-commerce 
 
 **📈Visualization**
 
-![Customer Segmentation](/Scripts\images\1_customer_segmentation.png)
+![Customer Segmentation](/Scripts/images/1_customer_segmentation.png)
 
 📊**Key Findings:**
 - High-value customers: (25% of total customers) generate 66% of revenue ($135.4M).
